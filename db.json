@@ -3,137 +3,219 @@
         {
             "id": "1",
             "strMeal": "Khaman Dhokla (Savory Gram Flour Cake)",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/01/khaman-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/01/khaman-recipe-280x280.jpg",
+            "strCategory":"Vegan Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/khaman-dhokla-microwave-recipe/",
+            "strDetail":"This khaman dhokla recipe makes a wonderfully soft and fluffy, lightly sweet and savory cake that’s perfect to enjoy anytime of the day. It’s easy to prepare steamed on the stovetop or even in the Instant Pot with my step-by-step photos and instructions."
         },
         {
             "id": "2",
             "strMeal": "Thepla Recipe | Methi Thepla (Fenugreek Flatbread)",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/01/thepla-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/01/thepla-280x280.jpg",
+            "strCategory":"Indian Breads",
+            "strLink":"https://www.vegrecipesofindia.com/methi-thepla-gujarati-methi-thepla/",
+            "strDetail":"Faintly bitter, and wonderfully spiced methi thepla are savory flatbreads that are delicious to enjoy as a delicious snack any time of the day. My step-by-step instructions with photos and video will show you how to easily make this classic thepla recipe with fresh fenugreek leaves and whole wheat flour. Plus, get tasty suggestions for some sides to eat with methi thepla!"
         },
         {
             "id": "3",
             "strMeal": "Dabeli Recipe",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/02/dabeli-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/02/dabeli-recipe-280x280.jpg",
+            "strCategory":"Street Food Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/dabeli-recipe-kutchi-dabeli-recipe/",
+            "strDetail":"Dabeli recipe with step by step photos. It is street food that originated in the Kutch region of Gujarat. Dabeli is also called as kutchi dabeli or kachchhi dabeli or kacchi dabeli. Its a very popular street snack and can be easily found in Mumbai as well as Gujarat."
         },
         {
             "id": "4",
             "strMeal": "Khandvi Recipe",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/07/khandvi-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/07/khandvi-recipe-280x280.jpg",
+            "strCategory":"Satvik - No Onion No Garlic",
+            "strLink":"https://www.vegrecipesofindia.com/khandvi-recipe-how-to-make-khandvi/",
+            "strDetail":"Khandvi recipe with step by step photos. This is a melt in the mouth, smooth, spiced & seasoned gram flour rolls. khandvi is a delicious healthy snack from the Gujarati cuisine."
         },
         {
             "id": "5",
             "strMeal": "Instant Rava Dhokla | Sooji Dhokla",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/09/rava-dhokla-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/09/rava-dhokla-recipe-280x280.jpg",
+            "strCategory":"Vegan Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/rava-dhokla-instant-rava-dhokla/",
+            "strDetail":"Rava dhokla with step by step photos. Steamed, soft and fluffy cake made from rava or semolina. A healthy vegan snack."
         },
         {
             "id": "6",
             "strMeal": "Gujarati Kadhi",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/05/how-to-make-gujarati-kadhi-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/05/how-to-make-gujarati-kadhi-280x280.jpg",
+            "strCategory":"Satvik - No Onion No Garlic",
+            "strLink":"https://www.vegrecipesofindia.com/gujarati-kadhi-recipe-gujarati-kadhi/",
+            "strDetail":"Gujarati kadhi recipe With step by step photos – Gujarati kadhi is a sweet-sour yogurt kadhi made without chickpea flour fritters. To all those who do not know, Kadhi is a yogurt-based gravy dish to which chickpea flour/besan is added, tempered and then simmered with spices."
         },
         {
             "id": "7",
             "strMeal": "Basundi",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/09/basundi-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/09/basundi-recipe-280x280.jpg",
+            "strCategory":"Sweets Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/basundi-recipe-quick-basundi-recipe/",
+            "strDetail":"Basundi recipe with step by step pics. Basundi is sweet thickened milk, flavored with cardamom and nutmeg, with the addition of dry fruits. This milk based delicious dessert is popular in the western part of India, specially in the states maharashtra and Gujarat."
         },
         {
             "id": "8",
             "strMeal": "Moong Dal Dhokla",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/06/moong-dhokla-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/06/moong-dhokla-recipe-280x280.jpg",
+            "strCategory":"Vegan Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/moong-dal-dhokla-recipe/",
+            "strDetail":"Moong Dal dhokla with step by step photos – This is a healthy, tasty and nutritious dhokla variety made with mung lentils, herbs and spices. A delicious vegan, protein-rich and guilt-free snack that you can enjoy any time."
         },
         {
             "id": "9",
             "strMeal": "Shrikhand Recipe (Sweetened Flavored Yogurt)",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/04/shrikhand-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/04/shrikhand-recipe-280x280.jpg",
+            "strCategory":"Sweets Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/shrikhand-recipe/",
+            "strDetail":"Shrikhand is a delicious and simple dessert recipe made with thick yogurt flavored with sugar, saffron and cardamom. Whether you choose to use homemade hung curd or take a shortcut by using store bought Greek yogurt, this easy dessert is the perfect after dinner sweet. I share two ways of making shrikhand recipe with hung curd as well as greek yogurt."
         },
         {
             "id": "10",
             "strMeal": "White Dhokla | Khatta Dhokla",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/09/khatta-dhokla-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/09/khatta-dhokla-recipe-280x280.jpg",
+            "strCategory":"Gluten Free Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/khatta-dhokla-recipe-white-dhokla/",
+            "strDetail":"White dhokla with step by step photos. A fermented and steamed sour cake made from rice, black gram (urad dal) & sour yogurt. It is light and spongy. A nutritious and tasty low fat and gluten-free snack from the Gujarati cuisine."
         },
         {
             "id": "11",
             "strMeal": "Aam Chunda | Gujarati Mango Chunda",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/06/aam-ka-chunda-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/06/aam-ka-chunda-recipe-280x280.jpg",
+            "strCategory":"Vegan Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/aam-chunda-recipe-mango-chunda/",
+            "strDetail":"Aam ka chunda recipe with step by step pics – This is a quick, easy and tasty Gujarati mango chunda recipe. aam ka chunda is a spicy, sour and sweet mango preserve made with raw unripe mangoes and spices. Gluten-Free and Vegan."
         },
         {
             "id": "12",
             "strMeal": "Lasaniya Batata Recipe",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/07/lasaniya-batata-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/07/lasaniya-batata-recipe-280x280.jpg",
+            "strCategory":"Vegan Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/lasaniya-batata-recipe-lasaniya-bataka/",
+            "strDetail":"Lasaniya batata recipe with step by step photos – spicy garlicky baby potatoes recipe from the Gujarati cuisine,Lasaniya batata or Lasaniya bataka as its called is from the kathiyawad, saurashtra region of Gujarat. Usually served with rice papads or fryums."
         },
         {
             "id": "13",
             "strMeal": "Sev Tameta Nu Shaak Recipe",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/12/sev-tameta-nu-shaak-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/12/sev-tameta-nu-shaak-recipe-280x280.jpg",
+            "strLink":"https://www.vegrecipesofindia.com/sev-tameta-nu-shaak-recipe/",
+            "strDetail":"This sev tomato shaak is too good and the sev adds a lot of flavor, taste and texture to the dish. sev are are crisp fried gram flour vermicelli. If you live outside India, you can get them easily in an Indian grocery or sweets shop. "
         },
         {
             "id": "14",
             "strMeal": "Khatti Meethi Dal (Sweet & Sour Dal)",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/01/gujarati-khatti-meethi-dal-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/01/gujarati-khatti-meethi-dal-280x280.jpg",
+            "strCategory":"Satvik - No Onion No Garlic",
+            "strLink":"https://www.vegrecipesofindia.com/gujarati-khatti-meethi-dal-recipe/",
+            "strDetail":"Gujarati khatti meethi dal recipe with step by step photos. In english the words ‘khatti’ means tangy or sour and ‘meethi’ means sweet. So this is an easy Gujarati dal having sweet and sour taste and will be specially liked by folks who love myriad flavors and textures in one dish."
         },
         {
             "id": "15",
             "strMeal": "Puffed Rice Recipe | Spiced Puffed Rice | Murmura Recipe",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/07/murmura-chaat-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/07/murmura-chaat-280x280.jpg",
+            "strCategory":"Vegan Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/murmura-chaat-recipe/",
+            "strDetail":"This puffed rice recipe is a lightly spiced savory snack made with puffed rice and a few spices. you can even call this recipe as masala murmura. Puffed rice is also called as murmura in hindi language."
         },
         {
             "id": "16",
             "strMeal": "Lauki Thepla",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/12/lauki-thepla-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/12/lauki-thepla-recipe-280x280.jpg",
+            "strCategory":"Vegan Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/lauki-thepla-recipe/",
+            "strDetail":"Lauki thepla is a nutritious, savory, spice flatbread made with lauki or bottle gourd. Lauki is also called dudhi, ghiya, sorakaya in Indian regional languages. In English these light green tender gourds are known as opo sqaush, calabash, long melon, and bottle gourd."
         },
         {
             "id": "17",
             "strMeal": "Undhiyu Recipe",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/04/undhiyu-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/04/undhiyu-recipe-280x280.jpg",
+            "strCategory":"Vegan Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/undhiyu-recipe-gujarati-undhiyu-recipe/",
+            "strDetail":"Undhiyu is a one pot vegetable casserole dish that is the hallmark of Gujarati vegetarian cuisine. Generally preparing undhiyu takes a lot of time and needs patience. Traditionally the veggies are cooked or fried in batches."
         },
         {
             "id": "18",
             "strMeal": "Chana Dal Dhokla | Traditional Gujarati Vati Dal Dhokla",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/06/gujarati-dhokla-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/06/gujarati-dhokla-recipe-280x280.jpg",
+            "strCategory":"Vegan Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/dhokla-recipe/",
+            "strDetail":"Chana Dal Dhokla recipe with step by step pics. Dhokla is a steamed lentil cake made with ground, fermented batter made of bengal gram (chana dal), rice and curd (yogurt). It is also called vati dal dhokla or vati dal na dhokla."
         },
         {
             "id": "19",
             "strMeal": "Methi Na Gota",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/07/methi-na-gota-or-methi-pakora-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/07/methi-na-gota-or-methi-pakora-recipe-280x280.jpg",
+            "strCategory":"Pakora Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/methi-na-gota-methi-pakora/",
+            "strDetail":"Methi na gota Or Methi pakora is a Gujarati deep fried snack. Basically these are fritters made with besan/gram flour and fenugreek leaves. they are usually served as a snack during tea time."
         },
         {
             "id": "20",
             "strMeal": "Masaledar Poori | Teekha Poori | Spicy Indian Fry Bread",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2009/09/masala-poori-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2009/09/masala-poori-recipe-280x280.jpg",
+            "strCategory":"Indian Breads",
+            "strLink":"https://www.vegrecipesofindia.com/masala-poori-spicy-poori/",
+            "strDetail":"Masaledar Poori is a spicy variation of Poori. You can also call these as “masala poori” or “teekha poori”. The word “teekha” means spicy. These spicy pooris are generally made in Maharashtra and Gujarat. You can vary spices as per your requirements."
         },
         {
             "id": "21",
             "strMeal": "Aamras Recipe, How To Make Aamras | Aamras Puri | Aam Ras",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2010/05/aamras-recipe-easy-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2010/05/aamras-recipe-easy-280x280.jpg",
+            "strCategory":"Vegan Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/aamras-recipe/",
+            "strDetail":"Aam Means mango & Ras Means juice. so literally the word aamras means mango juice. Basically aamras is plain mango puree or pulp. You can also call it mango nectar. aamras is a summer delight in a bowl. One recipe which I make at times during weekends in the Indian summers is aamras poori."
         },
         {
             "id": "22",
             "strMeal": "Sev Recipe | Besan Sev | How To Make Besan Sev Recipe",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/10/masala-sev-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/10/masala-sev-recipe-280x280.jpg",
+            "strCategory":"Vegan Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/besan-sev-recipe/",
+            "strDetail":"Sev recipe with step by step photos. Crisp, thick and tasty sev made from besan (gram flour) and spices. Besan sev is a quick, savory snack prepared during Diwali."
+
+            
         },
         {
             "id": "23",
             "strMeal": "Batata Nu Shaak",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/07/batata-nu-shaak-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/07/batata-nu-shaak-280x280.jpg",
+            "strCategory":"Vegan Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/batata-nu-shaak-recipe/",
+            "strDetail":"There are quite a number of ways this dry curry is made. A gravy version is also made, called as rasawala batata nu shaak. I make this dry batata nu shaak, as a side accompanying dish with chapatis. In Gujarati language, Batata or bateta means potatoes and Shaak means curry"
         },
         {
             "id": "24",
             "strMeal": "Maru Bhajia Recipe",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2017/06/marus-bhajia-recipe-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2017/06/marus-bhajia-recipe-280x280.jpg",
+            "strCategory":"Vegan Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/khaman-dhokla-microwave-recipe/",
+            "strDetail":"Maru bhajia recipe with step by step photos – crispy and tasty potato bhajia recipe. Maru’s bhajia is a famous snack that is served by maru restaurant in nairobi in kenya."
         },
         {
             "id": "25",
             "strMeal": "Fafda Recipe",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2017/12/gujarati-fafda-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2017/12/gujarati-fafda-280x280.jpg",
+            "strCategory":"Pakora Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/marus-bhajia-recipe-crispy-potato-bhajia/",
+            "strDetail":"Fafda recipe with step by step pics. Fafda is a fried crispy crunchy tasty snack made with besan (gram flour), laced with carom seeds and black pepper. It is a popular Gujarati vegan snack. This recipe makes for fafda which tastes similar to the one you get outside."
         },
         {
             "id": "26",
             "strMeal": "Mango Salad Recipe",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/06/raw-mango-salad-recipe-2-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/06/raw-mango-salad-recipe-2-280x280.jpg",
+            "strCategory":"Salad Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/raw-mango-salad-recipe/",
+            "strDetail":"Mango salad recipe with step by step photos – a quick salad made with raw mangoes and chopped onions. This is a sour, tangy and spiced mango salad. ‘khatta’ or sour tasting mangoes are complementing the slight pungency & sweetness of the onions."
         },
         {
             "id": "27",
             "strMeal": "Carrot Sambharo | Gujarati Carrot Salad",
-            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/07/carrot-sambharo-280x280.jpg"
+            "strMealThumb": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/07/carrot-sambharo-280x280.jpg",
+            "strCategory":"Salad Recipes",
+            "strLink":"https://www.vegrecipesofindia.com/carrot-sambharo-gujarati-carrot-salad/",
+            "strDetail":"The difference is in the way, the salad is made and its taste and flavors. This is a stir fried salad where the carrots are sauted with mustard and green chilies. Green chilies add some heat and spice to the salad. The flavors of fried mustard seeds also enhances the taste."
         }
     ]
 }
